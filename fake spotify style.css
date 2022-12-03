@@ -1,0 +1,118 @@
+body{
+    background: #111111;
+
+}
+
+h1{
+    color: #eeeeee;
+
+    font-family: "Noto Color Emoji", sans-serif;
+}
+h3{
+    color: #eeeeee;
+    font-family: "Noto Color Emoji", sans-serif;
+}
+p{
+    color: #eeeeee;
+    font-family: "Noto Color Emoji", sans-serif;
+}
+li logo{
+    color: #eeeeee;
+    font-family: "Noto Color Emoji", sans-serif;
+    font-weight: bold;
+}
+ul{
+    padding:0;
+
+}
+.logo{
+    font-weight: bold;
+}
+li{
+    list-style-type: none;
+    display: inline;
+    padding:1em;
+    color: #eeeeee;
+    font-family: "Noto Color Emoji", sans-serif;
+}
+li a{
+    display: inline-block;
+    padding:1em;
+    color: #eeeeee;
+    font-family: "Noto Color Emoji", sans-serif;
+    text-decoration: none;
+
+}
+article {
+    display: inline-block;
+    background: #111111;
+    vertical-align: top;
+    border-radius: 0.5em;
+    padding: 1em;
+    color: white;
+
+    margin-left: 20px;
+    margin-right: 20px;
+}
+article:hover{
+    background: #222222;
+
+
+}
+
+
+.imgcontainer{
+    width:300px;
+    height: 300px;
+
+
+}
+
+
+.imgcontainer2{
+    height: 300px;
+    width: 300px;
+}
+
+
+img{
+    max-width: 100%;
+    border-radius: 100%;
+}
+.img2{
+    max-width: 100%;
+    border-radius: 5%;
+}
+
+.playlistimg{
+    height: 450px;
+    width: 450px;
+    max-width: 100%;
+    border-radius: 0%;
+margin: 20px 20px 20px 20px;
+
+}
+.albumcontainer{
+    display: inline-block;
+
+
+}
+
+.txtplaylist{
+    display: inline-block;
+    vertical-align: bottom;
+    margin-left: 20px;
+}
+.type{
+    font-size: 30px;
+}
+.header{
+    font-size: 55px;
+}
+.text{
+    font-size: 35px;
+    color: #737373;
+}
+a{
+    text-decoration: none;
+}
